@@ -1,0 +1,68 @@
+header {
+    background-color: black;
+    color:white;
+
+
+    top: 1%;
+    width: 100%;
+
+}
+h1{
+    font-size: 50px;
+
+}
+h3 {
+    font-style: italic;
+    color: gray;
+}
+body{
+
+    font-size: 25px;
+    line-height: 2 ;
+}
+article{
+    background-color: grey;
+
+    margin-left: 50px;
+
+
+
+}
+
+.right {
+
+    float:right;
+    width: 60%;
+    right:20px;
+    position: relative;
+
+
+}
+.left{
+    left:20px;
+    width:35%;
+    position: relative;
+}
+
+
+#logo {
+    position:relative;
+    float: right;
+    top: 1%;
+
+}
+
+
+  footer{
+    background-color: black;
+    color:white;
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 2500px;
+    text-align: center;
+  }
+
+  a {
+      color: teal;
+  }
